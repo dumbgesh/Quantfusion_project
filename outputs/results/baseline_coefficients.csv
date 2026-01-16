@@ -1,0 +1,6 @@
+Variable,Coefficient
+NumberOfTime30-59DaysPastDueNotWorse,0.5869475606290384
+NumberOfTime60-89DaysPastDueNotWorse,0.2392659654866692
+MonthlyIncome,-2.1142149338848882e-05
+DebtRatio,-4.7141573318617056e-05
+age,-0.03137085587576308
